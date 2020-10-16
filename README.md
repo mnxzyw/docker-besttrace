@@ -1,5 +1,5 @@
 # docker-besttrace
 ## cmd
 ```
-docker run -it --rm whoerau/besttrace IP
+docker run -it --rm besttrace IP
 ```
